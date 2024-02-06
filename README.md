@@ -1,6 +1,6 @@
 # Product Catalog (Backend)
 
-[DEMO LINK](https://frontend-product-catalog.vercel.app/)
+[DEMO LINK](https://react-product-catalog.vercel.app/)
 
 [API](https://express-product-catalog.onrender.com/)
 
