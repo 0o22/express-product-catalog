@@ -2,7 +2,7 @@
 
 [DEMO LINK](https://frontend-product-catalog.vercel.app/)
 
-[API](https://backend-product-catalog.onrender.com/)
+[API](https://express-product-catalog.onrender.com/)
 
 Welcome to the Nice Gadgets Apple Store API! This API provides access to a comprehensive catalog of products, including details, categories, colors, capacities, and more. Whether you're building a web or mobile application, this API allows you to retrieve product information for a seamless user experience.
 
